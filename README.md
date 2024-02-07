@@ -62,7 +62,7 @@
 * cat Credential.txt
 
 # 9 PRIVILEGE ESCALATION
-* 
+* login with RDP
 
 # 10 ENTRYPOINT ADRDRESS
 * login into ggiven machine
