@@ -100,4 +100,13 @@
 * go to file and download
 * open the file coppy hash and paste in hashes.com or crackstation.com
 
-# 17 
+# 17 IOT TRAFFIC
+* open the file in wireshark
+* mqtt (in the filter option) 
+* click on publish message
+* mqtt protocol
+
+# 18 WIFI
+* aircrack-ng -w(password file directory) (file directory) 
+
+# 19 
