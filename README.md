@@ -1,7 +1,7 @@
 # CEH PRACTICAL
 1 FQDN
 * nmap -p389 -sV (subnet) -Pn
-*          OR
+           OR
 * nmap -A <subnet> -Pn
 
 2 WAMP SERVER
@@ -12,7 +12,7 @@
 * hydra -l Henry -P (password.txt file on desktop) (ip) smb
 * smbclient -L ip -p 1445 -U Henry
 * smbclient -L //ip/Home -p 1445 -U Henry
-* get <file name> password same as Henry
+* get (file name) password same as Henry
 * if file contains hash decode it
 
 4 Android
@@ -78,4 +78,4 @@
 * tcp.flags.syn == 1 and tcp.flags.ack == 0
 
 12 SQL injection PASSWORD
-*
+* 
