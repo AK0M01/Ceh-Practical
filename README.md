@@ -113,4 +113,6 @@
 * open njRAT 
 * search and download the file
 
-# 20 
+# 20 VERACRYPT
+* crack the hash first
+* open veracrypt and use the cracked hash as passwors
