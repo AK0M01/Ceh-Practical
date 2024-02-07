@@ -109,4 +109,8 @@
 # 18 WIFI
 * aircrack-ng -w(password file directory) (file directory) 
 
-# 19 
+# 19 njRAT
+* open njRAT 
+* search and download the file
+
+# 20 
